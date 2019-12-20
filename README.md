@@ -2,6 +2,6 @@
 
 ## How to instal
 ```bash
-npm i @kasperbirch1/myfetch
+npm i fetch-npm
 
 ```
