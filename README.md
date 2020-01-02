@@ -6,7 +6,7 @@ This node module package is to GET, POST, PUT & DELETE data from a API /others w
 npm i fetch-npm
 ```
 
-```bash
+```
 let myFetch = require("fetch-npm");
 myFetch.init({
     address: "https://reqres.in/api/users/",
