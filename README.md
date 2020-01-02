@@ -1,5 +1,5 @@
 # myFetch
-This node module package is to GET, POST, PUT & DELETE data from a others website / APIs
+This node module package is to GET, POST, PUT & DELETE data from a API /others websites
 
 ## How to instal
 ```bash
