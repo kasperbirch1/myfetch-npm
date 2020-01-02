@@ -1,13 +1,12 @@
 # myFetch
+This node module package is to GET, POST, PUT & DELETE data from a others website / APIs
 
 ## How to instal
 ```bash
 npm i fetch-npm
-
 ```
 
-``````bash
-
+```bash
 let myFetch = require("fetch-npm");
 myFetch.init({
     address: "https://reqres.in/api/users/",
@@ -17,6 +16,4 @@ myFetch.init({
 myFetch.put("5", {
     name: 'Kasper'
 }).then(data => console.log(data));
-
-
 ```
